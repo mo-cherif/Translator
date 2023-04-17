@@ -1,2 +1,1 @@
 #Translator
-Python translator
