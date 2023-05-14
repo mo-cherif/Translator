@@ -1,2 +1,2 @@
 
-pip install googletrans
+# pip install googletrans
